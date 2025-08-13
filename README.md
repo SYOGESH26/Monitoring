@@ -1,6 +1,9 @@
 
 # Monitoring
 
+
+PROJECT URL :-  https://roadmap.sh/projects/server-stats
+
 ## **Overview**
 
 This is a **Bash-based system monitoring script** for Linux systems. It tracks system health by checking **CPU usage**, **memory usage**, **disk usage**, **network status**, **uptime**, and **swap memory**. Alerts are sent via email when thresholds are exceeded, and detailed logs are maintained in `/var/log/system_monitoring.log`.
@@ -54,4 +57,5 @@ This is a **Bash-based system monitoring script** for Linux systems. It tracks s
 * Logging
 All monitored information is appended to:
 /var/log/system_monitoring.log
+
 
